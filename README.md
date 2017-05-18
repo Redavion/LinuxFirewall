@@ -1,2 +1,7 @@
-# LinuxFirewall
-This project will be implementing a Linux Firewall that can filter incoming and outgoing packets from specific IP addresses. 
+## CS 3281 Final Project
+## Project 2 - Network Monitor
+
+**Alison Chen - chenay**
+
+**Carver Sorensen - sorenscd**
+
